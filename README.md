@@ -10,8 +10,10 @@ The BPH Token can be viewed [here](https://sepolia.etherscan.io/token/0x27357ef3
 
 ## More Details
 
-The dApp has been deployed on Sepolia Testnet of Ethereum. The backend of the dApp has been created using [Hardhat](https://hardhat.org/) and is available in the [hardhat-tutorial](https://github.com/Tanmay-Bhatnagar-03/ICO/tree/main/hardhat-tutorial) directory. Whitelist smart contract script is available in [hardhat-tutorial/contracts](https://github.com/Tanmay-Bhatnagar-03/ICO/tree/main/hardhat-tutorial/contracts) directory and it is written in [Solidity](https://soliditylang.org/). The deployment script for the smart contract is written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). <br />
+The dApp has been deployed on Sepolia Testnet of Ethereum. The backend of the dApp has been created using [Hardhat](https://hardhat.org/) and is available in the [hardhat-tutorial](https://github.com/Tanmay-Bhatnagar-03/ICO/tree/main/hardhat-tutorial) directory. Smart contracts for the project are available in [hardhat-tutorial/contracts](https://github.com/Tanmay-Bhatnagar-03/ICO/tree/main/hardhat-tutorial/contracts) directory and it is written in [Solidity](https://soliditylang.org/). The deployment script for the smart contract is written in [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript). <br />
+
 The frontend of the website has been created by [Next.js](https://nextjs.org/) and deployed on [Vercel](https://vercel.com/). The website automatically sends a prompt to connect your wallet ([MetaMask](https://metamask.io/)) and you are then required to approve the request in the wallet.<br />
+
 The token price is set at `0.001 eth` initially. Only the BPH NFT holders are allowed to mint and claim tokens, and the smart contract has a logic in place for checking the same. Upto 10,000 total BPH tokens can be minted and claimed.<br />
 
 ### Follow these steps to mint and claim BPH Tokens:
