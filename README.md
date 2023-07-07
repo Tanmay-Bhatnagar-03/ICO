@@ -1,11 +1,8 @@
 # Initial Coin Offering (ICO)
 
-Enables [BPH NFT holders](https://sepolia.etherscan.io/token/0xe68efffb7cad10c0add9522055c4c9f2ee0e2393#balances) to mint `BPH tokens`([ERC-20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)) on the Sepolia testnet. These tokens empower the [DAO](https://dao-omega-teal.vercel.app/) to create proposals and act on them while allowing the holders to cast their vote.
-
+Enables [BPH NFT holders](https://sepolia.etherscan.io/token/0xe68efffb7cad10c0add9522055c4c9f2ee0e2393#balances) to mint `BPH tokens`([ERC-20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)) on the Sepolia testnet. These tokens empower the [DAO](https://dao-omega-teal.vercel.app/) to create proposals and act on them while allowing the holders to cast their vote. <br />
 The project can be viewed [here](https://ico-two-henna.vercel.app/). <br />
-
 The contract can be accessed [here](https://sepolia.etherscan.io/address/0x27357ef37b72726dbd6a15b9f5e9ba9729327fcd). <br />
-
 The BPH Token can be viewed [here](https://sepolia.etherscan.io/token/0x27357ef37b72726dbd6a15b9f5e9ba9729327fcd).
 
 ## More Details
